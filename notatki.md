@@ -12,3 +12,6 @@ BLOK III	4 h	Domknięcie
 III.1	2 h	Projekt zespołowy - konkurs na najlepszy proces	pracownicy_brudne
 III.2	1 h	Omówienie wyników i najczęstszych błędów	-
 III.3	1 h	Zadanie zaliczeniowe: omówienie, konsultacje, start	do wyboru
+
+
+git restore cofa niezapisane (niezacommitowane) zmiany w plikach na moim komputerze, a git revert tworzy nowy commit, który odwraca zmiany z wcześniejszego commita, więc historia zostaje zachowana i można go bezpiecznie wysłać na GitHub.
